@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabianegi
-- 👀 I’m interested in programming and hitting the gym
-- 🌱 I’m currently learning Java, Phyton etc.
+- 👀 I’m interested in programming and sport
+- 🌱 I’m currently learning Java, Phyton, C, C++ etc.
 - 💞️ I’m looking to collaborate on SAP 
 - 📫 How to reach me f.egenberger@gmx.de
