@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @fabianegi
+- Hi, I’m @fabianegi
 - no more information available
