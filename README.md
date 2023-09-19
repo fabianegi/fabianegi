@@ -10,6 +10,9 @@ Fabian / Munich, Germany
 [![Java](https://img.shields.io/badge/-Java-007396.svg?logo=Java&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/fabianegi?tab=repositories&q=&type=&language=java)
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/fabianegi?tab=repositories&q=&type=&language=javascript)
 [![PhP](https://img.shields.io/badge/-php-848ebb.svg?logo=php&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/fabianegi?tab=repositories&q=&type=&language=php)
+[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/fabianegi?tab=repositories&q=&type=&language=css)
+[![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/fabianegi?tab=repositories&q=&type=&language=sap)
+# and more
 
 ## Others (ง︡'-'︠)ง
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/fabianegi)
