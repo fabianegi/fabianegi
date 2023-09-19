@@ -6,7 +6,7 @@
 
 Fabian / Munich, Germany
 
-## Languages
+## Languages or skills 💼🧙‍♂️
 [![Java](https://img.shields.io/badge/-Java-007396.svg?logo=Java&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/fabianegi?tab=repositories&q=&type=&language=java)
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/fabianegi?tab=repositories&q=&type=&language=javascript)
 [![PhP](https://img.shields.io/badge/-php-848ebb.svg?logo=php&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/fabianegi?tab=repositories&q=&type=&language=php)
@@ -27,7 +27,7 @@ Fabian / Munich, Germany
 
 ## Others (ง︡'-'︠)ง
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/fabianegi)
-[![BuyMeACoffee](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://www.paypal.me/fabianegi/)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.me/fabianegi/)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)]()
 [![BMW](https://aleen42.github.io/badges/src/bmw.svg)](https://www.bmw.de/de/neufahrzeuge/m/m3-limousine/2023/bmw-3er-limousine-m-automobile-ueberblick.html)
 
