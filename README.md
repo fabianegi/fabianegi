@@ -11,8 +11,8 @@ other: vercel, php, java, c++, typescript
 ```
 
 
-##Stats
+## Stats
 [![stats](https://github-readme-stats.vercel.app/api?username=fabianegi&count_private=true&theme=tokyonight)]((https://github.com/fabianegi))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianegi&count_private=true&theme=tokyonight)](https://github.com/fabianegi/)
 
-[![Twitter](https://img.shields.io/badge/-@fabianegi-03A9F4.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)])
+
