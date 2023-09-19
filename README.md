@@ -34,7 +34,7 @@ Fabian / Munich, Germany
 ## Stats
 [![stats](https://github-readme-stats.vercel.app/api?username=fabianegi&count_private=true&theme=tokyonight)]((https://github.com/fabianegi))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianegi&count_private=true&theme=tokyonight)](https://github.com/fabianegi/)
-[![Graphics](https://starchart.cc/{fabianegi}/{repo}.svg)](https://github.com/fabianegi/)
+[![Graphics](https://starchart.cc/{fabianegi}/{l-scht.de}.svg)](https://github.com/fabianegi/)
 
 
 
