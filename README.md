@@ -3,14 +3,17 @@
 </a>
 
 # About me
-### Hey, I'm Fabian 👋
 
 Fabian / Munich, Germany
+
+## Languages
+[![Java](https://img.shields.io/badge/-Java-007396.svg?logo=Java&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/fabianegi?tab=repositories&q=&type=&language=java)
+[![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/fabianegi?tab=repositories&q=&type=&language=javascript)
 
 ```yaml
 frontend: react/nextjs, tailwind, svelte
 backend: node, mariadb, docker
-other: vercel, php, java, c++, typescript
+other: vercel, php, java, c++, typescript, 
 ```
 
 
