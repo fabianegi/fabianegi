@@ -2,6 +2,9 @@
     <img alt="fabianegi / Developer" src="https://github.com/fabianegi/coreboost/blob/main/header.svg" width="100%" />
 </a>
 
+# About me
+### Hey, I'm Fabian 👋
+
 Fabian / Munich, Germany
 
 ```yaml
