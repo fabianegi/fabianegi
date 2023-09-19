@@ -10,7 +10,10 @@ Fabian / Munich, Germany
 [![Java](https://img.shields.io/badge/-Java-007396.svg?logo=Java&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/fabianegi?tab=repositories&q=&type=&language=java)
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/fabianegi?tab=repositories&q=&type=&language=javascript)
 [![PhP](https://img.shields.io/badge/-php-848ebb.svg?logo=php&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/fabianegi?tab=repositories&q=&type=&language=php)
-![abap package version](https://img.shields.io/endpoint?url=https://shield.abap.space/version-shield-json/github/fabianegi/src/zif_my_lib_commons.intf.abap/pkg_version)
+
+<a href="https://www.codewars.com/users/fabianegi">
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)]
+</a>
 
 ```yaml
 frontend: react/nextjs, tailwind, svelte
