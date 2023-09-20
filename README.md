@@ -19,16 +19,16 @@ Fabian / Munich, Germany
 •••
 
 ## Like playing (on) ... 👾
-[![CS](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)]()
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]()
-[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)]()
-[![EpicGames](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]()
+[![CS](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://steamcommunity.com/profiles/76561199337730648/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hd48284gg)
+[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/de-de/Profile?xr=mebarnav&rtc=1&csrf=7oP_HFD6TuZj83Kuffz28Ypb4ele0jdlOZNQW5KFCyiBParYP8io4Siw4DQ4DQbwCYz9bw8rcYzjQLmcIib3_efu-yg1&wa=wsignin1.0)
+[![EpicGames](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/de/u/7483634390494f9cb394a8f9b49d6b9a)
 [![Battle.net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)]()
 
 ## Others (ง︡'-'︠)ง
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/fabianegi)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.me/fabianegi/)
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)]()
+[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://de.duolingo.com/profile/fabian_brb)
 [![BMW](https://aleen42.github.io/badges/src/bmw.svg)](https://www.bmw.de/de/neufahrzeuge/m/m3-limousine/2023/bmw-3er-limousine-m-automobile-ueberblick.html)
 
 ## Stats
