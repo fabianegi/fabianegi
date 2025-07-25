@@ -19,10 +19,8 @@ Fabian / Munich, Germany
 •••
 
 ## Like playing (on) ... 👾
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hd48284gg)
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/de-de/Profile?xr=mebarnav&rtc=1&csrf=7oP_HFD6TuZj83Kuffz28Ypb4ele0jdlOZNQW5KFCyiBParYP8io4Siw4DQ4DQbwCYz9bw8rcYzjQLmcIib3_efu-yg1&wa=wsignin1.0)
 [![EpicGames](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/de/u/7483634390494f9cb394a8f9b49d6b9a)
-[![Battle.net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)]()
 
 ## Others (ง︡'-'︠)ง
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/fabianegi)
