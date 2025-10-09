@@ -1,4 +1,4 @@
-<a href="https://www.xn--lscht-jua.de/">
+<a href="https://www.blueschel.de/">
     <img alt="fabianegi / Developer" src="https://github.com/fabianegi/coreboost/blob/main/header.svg" width="100%" />
 </a>
 
