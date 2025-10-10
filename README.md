@@ -24,7 +24,7 @@ Fabian / Munich, Germany
 [![EpicGames](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/de/u/7483634390494f9cb394a8f9b49d6b9a)
 [![Battle.net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)]()
 
-## Others (ง︡'-'︠)ง
+## Others 💻
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/fabianegi)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.me/fabianegi/)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://de.duolingo.com/profile/fabian_brb)
