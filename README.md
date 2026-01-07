@@ -1,21 +1,29 @@
-# Fabian
+### Hi, I'm Fabian 👋
 
-**Software Developer** | Munich, Germany
+Software Developer based in Munich, Germany
 
-## Technical Skills
+#### 💻 Tech Stack
 
-**Languages & Technologies**  
-Java • JavaScript • PHP • CSS • SAP
+```
+Languages:     Pythong, Java, JavaScript, CSS, ABAP, ...
+Systems:       Linux, Windows, iOS
+Enterprise:    SAP
+```
 
-**Platforms & Systems**  
-Linux • Windows • iOS
+#### 📊 GitHub Stats
 
-## GitHub Statistics
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=fabianegi&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel. app/api?username=fabianegi&count_private=true&theme=tokyonight&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianegi&layout=compact&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianegi&count_private=true&theme=tokyonight&layout=compact)
+</div>
+
+#### 🎯 Currently
+
+- 🔭 Working on full-stack development projects
+- 🌱 Continuously learning and improving
+- 💬 Open to collaboration
 
 ---
-
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white)](https://www.codewars.com/users/fabianegi)
