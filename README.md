@@ -1,8 +1,8 @@
-### Hi, I'm Fabian 👋
+# Hi, I'm Fabian 👋
 
 Software Developer based in Munich, Germany
 
-# 💫 About Me:
+## 💫 About Me:
 🤖 I’m currently learning data science and AI.<br>
 
 
