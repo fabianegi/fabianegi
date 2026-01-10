@@ -3,7 +3,7 @@
 Software Developer based in Munich, Germany
 
 ## 💫 About Me:
-🤖 I’m currently learning data science and AI.<br>
+🤖 I’m currently learning data science and artificial intelligence<br>
 
 
 ## 💻 Tech Stack:
