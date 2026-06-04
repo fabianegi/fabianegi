@@ -15,10 +15,10 @@ Software Developer based in Munich, Germany
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fabianegi&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=fabianegi&show_icons=true&theme=light"
+    media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=fabianegi&show_icons=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fabianegi&show_icons=true&theme=dark" />
 </picture>
 
 ### ✍️ Random Dev Quote
